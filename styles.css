@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css2?family=Sofia&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Redressed&family=Sofia&display=swap");
+
+.bc {
+  margin-top: 0;
+  height: 500px;
+  width: auto;
+
+  background: url("LDC Logo-02 1.png");
+  background-size: 100%;
+  background-position: center;
+  background-color: rgba(93, 89, 164, 0.6);
+  filter: blur(1px);
+  -webkit-filter: blur(1px);
+  padding-top: 150px;
+
+  display: block;
+}
+.ce {
+  position: static;
+  display: block;
+  margin-left: auto;
+  margin-bottom: auto;
+  margin-top: 275px;
+
+  margin-left: 330px;
+  margin-right: auto;
+  width: 800px;
+  font-family: "Redressed";
+  font-size: 50px;
+  color: rgba(255, 255, 255, 0.733);
+}
